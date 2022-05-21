@@ -1,13 +1,14 @@
 PizzaClient Is Back!
 
-I hope you guys enjoy this update since its long due.
+I hope you guys enjoy this update since its long overdue.
 
-Sorry for the lack of updates and that i've been busy with school
 
-and other projects so i didn't have time to work on this.
+I'm sorry for the lack of updates, I've been busy with school
 
-Aswell i accidentally threw out the source code for PizzaClient
+and other projects so I haven't had time to work on this.
 
-so I had to recode it. plus i was at a roadblock for
+Aswell I accidentally threw out the source code for PizzaClient
 
-what to do next
+so I had to recode it.
+
+I also wasn't motivated to continue due to how much time I put into it without it outcoming as much.
