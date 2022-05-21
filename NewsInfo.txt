@@ -10,5 +10,3 @@ and other projects so I haven't had time to work on this.
 Aswell I accidentally threw out the source code for PizzaClient
 
 so I had to recode it.
-
-I also wasn't motivated to continue due to how much time I put into it without it outcoming as much.
