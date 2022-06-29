@@ -1,1 +1,12 @@
-Pizza Is Good
+PizzaClient Is Back!
+
+I hope you guys enjoy this update since its long overdue.
+
+
+I'm sorry for the lack of updates, I've been busy with school
+
+and other projects so I haven't had time to work on this.
+
+Aswell I accidentally threw out the source code for PizzaClient
+
+so I had to recode it.
